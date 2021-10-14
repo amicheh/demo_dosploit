@@ -17,8 +17,7 @@
 
 ### SKILLS:
 - syn flood
-- icmp flood
-
+- udp flood
 
 
 ```bash
